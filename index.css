@@ -30,8 +30,8 @@ body {
 }
 
 .text-content {
+  margin: 0 auto;
   width: 85%;
-  justify-content: center;
 }
 .text-content h4 {
   text-align: center;
