@@ -17,8 +17,7 @@ body {
 }
 .container {
   background-color: hsl(0, 0%, 100%);
-  margin: 1rem auto;
-
+  margin: 40px auto;
   max-width: 240px;
   justify-items: center;
   border-radius: 1rem;
@@ -32,6 +31,7 @@ body {
 
 .text-content {
   width: 85%;
+  justify-content: center;
 }
 .text-content h4 {
   text-align: center;
